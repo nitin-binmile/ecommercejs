@@ -1,7 +1,7 @@
 const ProductType = [
   {
     title: "Women",
-    img: "https://s3-alpha-sig.figma.com/img/76fe/b50f/2d3a33aa33ec6ee55aedb77ca0b7713e?Expires=1696204800&Signature=YurN0xRKp93HZdVJAiVTgvh~KxCP4RAtA5fBXa50MGQU7juz~4LmLsMmJr9KfTlfSiqImV~RhaIIdLCXwkpSxkcHA2psl~8-KXJy-qcPt7PUrd9rtbdteqEPh6bd3QZ17hGjMZ8m4KkKXzxlNMDSc4eb~MJ9U5UDZfcUlkHLTecFX~wCZmeGowxdZO9NC-eA8WxDEJdCk6jykldzsUvz6pbKYSIrIxeuxYGC3UrsAd~gCuDu0taXuaO5alGnrknTIYailchp1k9oWZfq-u5UVFkhOf2wJtfgOwrOj7Cx2aMbtiUG2d359STx-JLFMmwbjC8tZ2nLwKfQOjQmCCIfmQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    img: "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/d/i/j/xs-194-pink-aahwan-original-imaghyea4fzan9zu.jpeg",
     brand:["zara","Mango","Nayka","Raymond"],
     size:["XS","S","M","L"],
     color:["#750430","#00A95D","#A2D2FC","#FF7A00"]
@@ -21,7 +21,7 @@ const ProductType = [
   },
   {
     title: "shoe",
-    img: "https://s3-alpha-sig.figma.com/img/7f10/b451/62bf71daa8e00dac28093e87860efa45?Expires=1696204800&Signature=kETEOYHsDqrELEDaWXpN0iSxoX8RvTL1QoBICDXctojboCFppV62WD6sn62iCtXBTCSHhqFFk4pdgY2EE3BGYoWsmJUWDmv3DX1EA1OECALDD5yG9xuNb642f82ayZYzNtzMgZAep48IwyEwkcyALnEB5E~HDjIz3t2Mx~NvTis1Y5eFQqR4PGg9egt5IcuXCgJSv~nupXsE1dzdYwk4ZGnaNYKby0pblfby44Mpq~TSKgGrZbdYx1VLEyYIGc8R98jIqknAtY0iJOUXyXQRwfqHevptlIaEwYwSt9BdLXn-oW3wMiCrCnKlEx8KevjJrquI7eDZbPr0MaqykTwXcQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    img: "https://www.jiomart.com/images/product/original/rvrgwpjvsp/bruton-trendy-sports-shoes-for-men-blue-product-images-rvrgwpjvsp-0-202209021256.jpg",
     brand:["Bata","Nike","addidas","Campus"],
     size:["6","7","8","9","10","11","12"],
     color:["#750430","#00A95D","#A2D2FC","#FF7A00"]
